@@ -23,7 +23,6 @@ body {
   --bg1-color: #ffffff;
   --bg-content-color: #f9f9f9;
   --primary-color: #007bff;
-  /* --primary-color-hover: rgba(0, 123, 255, 0.8); */
   --primary-color-hover: #0056b3;
   --text-color: #242424;
   --heading-color: #333;
@@ -31,7 +30,6 @@ body {
   --secondary-color: #545f71;
   --muted-text-color: #6b7280;
   --border-color: #e0e0e0;
-
   --accent-color: #ffb800;
   --success-color: #49c564;
   --error-color: #ae131b;
@@ -60,7 +58,6 @@ body {
   /* PAGES MARGIN */
   --margin-size-main: 0 12vw;
   --margin-size-min: 0 4.5vw;
-
 
   /* DESIGNS */
   --border-bottom: 1px solid var(--border-color);
